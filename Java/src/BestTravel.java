@@ -10,7 +10,7 @@ public class BestTravel {
 
         // chooseBestSum(163, 3, ts);
 
-        ts = new ArrayList<>(Arrays.asList(91, 74, 73, 85, 73, 81, 87));
+        ts = new ArrayList<>(Arrays.asList());
 
         chooseBestSum(331, 4, ts);
 
